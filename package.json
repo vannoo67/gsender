@@ -425,10 +425,7 @@
     "@react-pdf/stylesheet": "4.1.8",
     "@react-pdf/textkit": "4.2.0",
     "@react-pdf/types": "2.3.4",
-    "@react-pdf/yoga": "4.1.2",
-    "webpack@4.47.0": {
-      "terser-webpack-plugin": "^4.2.3"
-    }
+    "@react-pdf/yoga": "4.1.2"
   },
   "resolutions": {
     "@react-pdf/fns": "2.0.1",
